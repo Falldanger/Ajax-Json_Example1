@@ -1,0 +1,4 @@
+Ajax technology.
+Create a form with the fields: first name, last name and age.
+Implement database entry via form.
+Use Ajax and Json technologies to display all previously entered data without reloading the page.
